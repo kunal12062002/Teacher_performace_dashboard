@@ -13,7 +13,16 @@ streamlit run app.py
 **Login:** username `admin` | password `1234`
 
 ---
-
+## git hub link
+```
+https://github.com/kunal12062002/Teacher_performace_dashboard
+```
+---
+## Dashboard link
+```
+https://teacher-performance-dashboard.streamlit.app/
+```
+---
 ## Files
 
 | File | Purpose |
@@ -84,4 +93,3 @@ reportlab>=4.0.0   # for PDF export; falls back to TXT if not installed
 👨‍💻 Author
 Kunal Titarmare
 Finance & Business Analytics
-# Teacher_performace_dashboard
