@@ -20,7 +20,7 @@ https://github.com/kunal12062002/Teacher_performace_dashboard
 ---
 ## Dashboard link
 ```
-https://teacher-performance-dashboard.streamlit.app/
+https://teacher-performace-dashboard.onrender.com/
 ```
 ---
 ## Files
